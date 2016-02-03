@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Poole</title>
- <link href="http://getpoole.com/atom.xml" rel="self"/>
- <link href="http://getpoole.com/"/>
- <updated>2016-01-21T12:16:06-08:00</updated>
- <id>http://getpoole.com</id>
+ <title>Your awesome title</title>
+ <link href="http://yourdomain.com/atom.xml" rel="self"/>
+ <link href="http://yourdomain.com/"/>
+ <updated>2016-02-02T21:44:02-08:00</updated>
+ <id>http://yourdomain.com</id>
  <author>
-   <name>Mark Otto</name>
-   <email>markdotto@gmail.com</email>
+   <name></name>
+   <email></email>
  </author>
 
  
